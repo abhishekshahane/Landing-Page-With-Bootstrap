@@ -1,17 +1,19 @@
-body
-{
+body{
 	height: 100%;
 }
-#picture-1
-{
-	height: 100px;
-}
-.dog
-{
+#picture-1{height: 100px;}
+.dog{
 	background-image: url("https://vetstreet.brightspotcdn.com/dims4/default/d742db0/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F98%2Fd98250a0d311e0a2380050568d634f%2Ffile%2FGolden-Retriever-3-645mk062411.jpg");
 	background-repeat: no-repeat;
 }
 #link
 {
 	color: black;
+	text-align: center;
+	padding-left: 73%;
+	display: flex;
+}
+#content
+{
+	background: linear-gradient(to right top, #454BF8 49.5%, #fff 50%), linear-gradient(-50deg, #ffffff 15%, #000 0);
 }
