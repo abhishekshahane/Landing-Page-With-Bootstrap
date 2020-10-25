@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+#welcome{
+	background-image: url("./img/mountain.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	height: 78vh;
+}
+#head{
+	color: #d9eaef;
+	font-family: montserrat;
+	font-size: 10vh;
+	padding-top: 10vh;
+	text-align: center;
+}
+#text{
+	color: #dba282;
+	font-family: montserrat;
+	font-size: 6vh;
+	padding-top: 10vh;
+	text-align: center;
+}
+.btn btn-info{
+	background-color:#445b63 !important;
+}
+#aboutus{
+	background-image: url("./img/city.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	height: 75vh;
+}
+#headb{
+	color: 	#bcacab;
+	font-family: montserrat;
+	font-size: 9vh;
+	text-align: center;
+	padding-top: 10vh;
+}
+#textb{
+	color: white;
+	font-family: roboto;
+	font-size: 3vh;
+	padding-top: 8vh;
+	text-align: center;
+}
+#ourmission{
+	background-image: url("./img/beach.jpg");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 70vh;
+}
+#headc{
+	color: 	#ffd19a;
+	font-family: roboto;
+	font-size: 9vh;
+	text-align: center;
+	padding-top:10vh;
+}
+#textc{
+	color: #a6acc2;
+	font-family: 'Dosis', sans-serif;
+	font-size: 3vh;
+	padding-top: 8vh;
+	text-align: center;
+}
