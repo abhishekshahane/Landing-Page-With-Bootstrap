@@ -1,2 +1,2 @@
 # Landing-Page-With-Bootstrap
-The simple, short and beautiful landing page you've always wanted. Made using HTML, CSS and JS. Keep in mind that we only support laptop and desktop viewing at the moment!
+The simple, short and beautiful landing page you've always wanted. I guarantee that you'll be blown away by the beauty of this landing page. Made using HTML, CSS and JS. Supports desktop, mobile and tablet viewing.
