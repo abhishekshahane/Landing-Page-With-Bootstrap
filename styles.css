@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+html{
+	scroll-behavior: smooth;
+}
 #welcome{
 	background-image: url("./img/mountain.jpg");
 	background-attachment: fixed;
@@ -49,7 +52,7 @@
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
-	height: 70vh;
+	height: 73vh;
 }
 #headc{
 	color: 	#ffd19a;
